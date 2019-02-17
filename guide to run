@@ -1,0 +1,12 @@
+# IMU_Razor9DOF
+Fixing visualization issue in ROS package for razor 9dof IMU using anaconda,python 3 and visual python 
+
+This is fixing compatiability issue with python visual and ROS.
+
+steps to run 
+
+1-import the anaconda "IMU.yml" environment" 
+2-launch ROS node after cloning from https://github.com/KristofRobot/razor_imu_9dof
+3-open terminal accessing the anaconda environment, python3 display_3D_visualization.py 
+4-should open a page in your web browser and will be printing the roll and pitch and yaw angles in the terminal.
+
