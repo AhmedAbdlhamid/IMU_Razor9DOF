@@ -1,7 +1,7 @@
 # IMU_Razor9DOF
 Fixing visualization issue in ROS package for razor 9dof IMU using anaconda,python 3 and visual python 
 
-This is fixing compatiability issue with python visual and ROS.
+This is fixing the compatiability issue with python visual and ROS.
 
 steps to run 
 
